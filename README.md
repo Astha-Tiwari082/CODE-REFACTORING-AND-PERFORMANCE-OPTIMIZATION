@@ -22,3 +22,6 @@ One of the main motivations behind this task was to demonstrate how code that in
 By refactoring the class, the codebase was significantly improved. A centralized method for reading CSV data was introduced to eliminate repetition. A static array of headers was defined and used to dynamically map each CSV row into a structured format using maps. Filtering logic was consolidated into a single reusable function that checks whether a row matches all specified criteria. Exception messages were enhanced to provide better context, and the output of the main method was improved for more effective manual testing. These changes not only made the code easier to read but also made it more scalable and adaptable to new requirements in the future.
 
 This type of task is widely applicable in the real world. Software developers frequently work with existing codebases that need to be cleaned up for better performance, reliability, and readability. Whether maintaining an internal business tool, contributing to open-source projects, or building data processing pipelines, the ability to refactor and optimize code is an essential skill. It helps reduce technical debt, improves collaboration, and sets the stage for future development and integration work.
+
+REPORT 
+[task4report.pdf](https://github.com/user-attachments/files/21215165/task4report.pdf)
