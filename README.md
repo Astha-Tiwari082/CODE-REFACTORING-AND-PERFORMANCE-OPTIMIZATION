@@ -10,7 +10,7 @@
 
 *DURATION*: 6 WEEKS
 
-*MENTOR*: NEELA SANTOSH 
+*MENTOR*: NEELA SANTHOSH 
 
 # CODE REFACTORING AND PERFORMANCE OPTIMIZATION PROJECT DESCRIPTION
 The task of code refactoring and performance optimization involves selecting an existing piece of software—typically an open-source or legacy codebase—and improving its internal structure without altering its external behavior. In this specific exercise, a Java class named FundingRaised was chosen, which is responsible for reading and filtering records from a CSV file containing startup funding data. The class initially performed its core functions but was written in a way that lacked modularity, was difficult to maintain, and did not easily support enhancements or scale to accommodate larger data operations. The goal of this task was to improve the readability, maintainability, and structural clarity of the code while preserving its original functionality and ensuring that any performance-related concerns were addressed appropriately.
